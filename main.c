@@ -1,4 +1,4 @@
-// fork() returns child's pid.
+
 #include<stdio.h>
 #include<unistd.h>
 #include<time.h>
